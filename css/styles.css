@@ -4,10 +4,12 @@ body {
 h1 {
   text-align: center;
 }
-.links {
-  display: block;
-  margin: 0 10px;
+footer {
   text-align: center;
+  padding: 15px;
+}
+footer a {
+  margin: 0 10px;
   color: green;
 }
 .croissant-image {
